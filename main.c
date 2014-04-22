@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+
+void testaPrimos(int a, int b)
+
 int main(){
     int op, a, b;
 
